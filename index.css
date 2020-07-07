@@ -1,0 +1,106 @@
+body{
+background-color:#32e0c4;    
+}
+h1{
+font-size:40px;
+}
+#main{
+background-color:black;
+width:400px;
+height:400px;
+margin-left: 500px;
+
+}
+#upper{
+background-color: #ddf3f5;
+width:250px;
+height:90px;
+margin-left: 550px;
+padding-top:0px;
+}
+#add {
+    background-color: #6a197d; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+  }
+
+#times{
+    background-color: #6a197d; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+  }
+    #div{
+        background-color: #6a197d; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+      }
+        #sub{
+            background-color: #6a197d; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 10px;
+        }
+            #per{
+                background-color: #6a197d; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 9px;
+            }
+            #clear{
+                background-color: #6a197d; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 10px;
+              }
+              #output{
+                background-color: #6a197d; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 10px;
+              }
+            td{
+            padding:20px;
+            }
+            #inp1{
+            color:#111d5e;
+            background-color: #faeee7;
+            }
+            #inp2{
+                color:#111d5e;
+                background-color: #faeee7;
+                }
+
+                
+
+            
